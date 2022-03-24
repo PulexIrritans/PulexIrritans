@@ -1,6 +1,10 @@
+<p align="center">
+    <img src="antje_kiel_laboe_dreimoewen.jpg" alt="Logo">
+</p>
+
 # Moin, I'm Antje
 
-- **Learning:** Web Development with neue fische
+- **Learning:** Web Development with neue fische and The Odin Project
 - **Languages:** JavaScript
 - **Experienced:** IT Project Manager, HR Manager
 
