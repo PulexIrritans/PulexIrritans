@@ -15,4 +15,4 @@ Doing the work.
 
 I started off my journey with The Odin Project. It's a great, great online open source course to get started with web development. The neue fische bootcamp that I'm currently accomplishing is giving me the final touch to be ready to actually work as a web developer. I'm so excited to see what's coming next!
 
-Meanwhile, I also like hiking as you can see from my profile picture. Any recommendations for hiking tracks? Get in touch!
+Meanwhile, I also like hiking as you can see from my profile picture. Any recommendations for hiking trails? Get in touch!
