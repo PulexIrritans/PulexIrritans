@@ -4,7 +4,7 @@
 
 # Moin, I'm Antje
 
-- **Learning:** Web Development with neue fische and The Odin Project.
+- **Learning:** Web Development with The road to react, neue fische and The Odin Project.
 - **Languages:** JavaScript
 - **Experienced:** IT Project Manager, HR Manager
 
